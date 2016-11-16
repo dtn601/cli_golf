@@ -1,0 +1,36 @@
+Microsoft Windows [Version 10.0.14393]
+(c) 2016 Microsoft Corporation. All rights reserved.
+
+C:\Users\dann>tree /f c:\users\dann\GA-HW\cli_golf-master\kitchen
+Folder PATH listing
+Volume serial number is 1A4C-B85F
+C:\USERS\DANN\GA-HW\CLI_GOLF-MASTER\KITCHEN
++---kitchen
+    +---fridge
+    ¦   ¦   milk.txt
+    ¦   ¦
+    ¦   +---crisper-drawer
+    ¦   ¦       apples.txt
+    ¦   ¦       lettuce.txt
+    ¦   ¦
+    ¦   +---freezer
+    ¦           frozenpeas.txt
+    ¦           icecream.txt
+    ¦
+    +---pantry
+    ¦       cans.txt
+    ¦       cereal.txt
+    ¦
+    +---sink
+    ¦   ¦   dirty-dishes.txt
+    ¦   ¦
+    ¦   +---drying-rack
+    ¦           clean-dishes.txt
+    ¦
+    +---trashcan
+            banana-peels.txt
+            chicken-bones.txt
+            egg-shells.txt
+
+
+C:\Users\dann>
